@@ -1,2 +1,8 @@
 
 = python
+
+[source,shell]
+----
+# 清理缓存
+pip cache purge
+----
